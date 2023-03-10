@@ -1,0 +1,6 @@
+*.pdf
+*.fig
+*.png
+.ipynb_checkpoints/
+!Photons.fig
+!ALDERSON_Protons0-60-240.fig
