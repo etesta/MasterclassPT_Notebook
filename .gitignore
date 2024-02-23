@@ -3,4 +3,8 @@
 *.png
 .ipynb_checkpoints/
 !Photons.fig
+!Photons5angEquiCouch0.fig
+!Photons5angEquiCouch0_From45.fig
 !ALDERSON_Protons0-60-240.fig
+!ALDERSON_Protons0-60-240_shift.fig
+
